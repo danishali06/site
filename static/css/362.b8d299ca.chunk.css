@@ -1,0 +1,1 @@
+.aboutPage{min-height:100vh;padding:50px 100px}.aboutPara{font-size:1.2rem;line-height:25px;margin-bottom:30px}#para1{color:orange}@media screen and (max-width:1000px){.aboutPage{padding:25px 50px}}@media screen and (max-width:550px){.aboutPage{padding:0 20px}}
